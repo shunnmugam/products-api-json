@@ -5,56 +5,56 @@
       "name": "Name Brand Shoes",
       "desc": "Product fashion, hot trend and very cheap",
       "image": "http://html.smartcmsmarket.net/product-listing/images/1.png",
-      "rating": 4,
+      "rating": 4
     },
     {
       "id": 2,
       "name": "Name Brand Shoes",
       "desc": "Product fashion, hot trend and very cheap",
       "image": "http://html.smartcmsmarket.net/product-listing/images/2.png",
-      "rating": 3,
+      "rating": 3
     },
     {
       "id": 3,
       "name": "Name Brand Shoes",
       "desc": "Product fashion, hot trend and very cheap",
       "image": "http://html.smartcmsmarket.net/product-listing/images/3.png",
-      "rating": 2,
+      "rating": 2
     },
     {
       "id": 4,
       "name": "Name Brand Shoes",
       "desc": "Product fashion, hot trend and very cheap",
       "image": "http://html.smartcmsmarket.net/product-listing/images/4.png",
-      "rating": 5,
+      "rating": 5
     },
     {
       "id": 5,
       "name": "Name Brand Shoes",
       "desc": "Product fashion, hot trend and very cheap",
       "image": "http://html.smartcmsmarket.net/product-listing/images/5.png",
-      "rating": 4,
+      "rating": 4
     },
     {
       "id": 6,
       "name": "Name Brand Shoes",
       "desc": "Product fashion, hot trend and very cheap",
       "image": "http://html.smartcmsmarket.net/product-listing/images/6.png",
-      "rating": 5,
+      "rating": 5
     },
     {
       "id": 7,
       "name": "Name Brand Shoes",
       "desc": "Product fashion, hot trend and very cheap",
       "image": "http://html.smartcmsmarket.net/product-listing/images/7.png",
-      "rating": 3,
+      "rating": 3
     },
     {
       "id": 8,
       "name": "Name Brand Shoes",
       "desc": "Product fashion, hot trend and very cheap",
       "image": "http://html.smartcmsmarket.net/product-listing/images/8.png",
-      "rating": 4,
+      "rating": 4
     }
   ]
 }
