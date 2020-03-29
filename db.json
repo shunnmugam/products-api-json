@@ -2,8 +2,8 @@
   "products": [
     {
       "id": 1,
-      "name": "Name Brand Shoes",
-      "desc": "Product fashion, hot trend and very cheap",
+      "name": "Puma",
+      "desc": "A pair of round-toe black sneakers, has regular styling, lace-up detail Synthetic upper",
       "image": "http://html.smartcmsmarket.net/product-listing/images/1.png",
       "rating": 4,
       "price": 600,
@@ -11,8 +11,8 @@
     },
     {
       "id": 2,
-      "name": "Name Brand Shoes",
-      "desc": "Product fashion, hot trend and very cheap",
+      "name": "Avant Men's Bolt Slip On Training Shoes",
+      "desc": "AVANT Sports is engaged in the design, development and marketing of sports and performance footwear. Our goal is to provide our customers with professional sports footwear and accessories.",
       "image": "http://html.smartcmsmarket.net/product-listing/images/2.png",
       "rating": 3,
       "price": 627,
@@ -20,8 +20,8 @@
     },
     {
       "id": 3,
-      "name": "Name Brand Shoes",
-      "desc": "Product fashion, hot trend and very cheap",
+      "name": "Red Chief Men's Sneakers",
+      "desc": "The footwear range of Leayan Global Pvt. Ltd was launched under the brand name Red Chief in 1997 to meet growing demand for branded high quality leather footwear.",
       "image": "http://html.smartcmsmarket.net/product-listing/images/3.png",
       "rating": 2,
       "price": 786,
@@ -29,8 +29,8 @@
     },
     {
       "id": 4,
-      "name": "Name Brand Shoes",
-      "desc": "Product fashion, hot trend and very cheap",
+      "name": "Camfoot Men's Orange Laceup Casual Wear/Sports Running Shoes/Walking Running Sneakers",
+      "desc": "Classic and comfortable low top lace up Sneakers. Easy to match outfit: denim, jeans. Reflect your most excellent and personal style. The Sneakers are so comfortable to wear & soft to foot.",
       "image": "http://html.smartcmsmarket.net/product-listing/images/4.png",
       "rating": 5,
       "price": 500,
@@ -38,8 +38,8 @@
     },
     {
       "id": 5,
-      "name": "Name Brand Shoes",
-      "desc": "Product fashion, hot trend and very cheap",
+      "name": "Avant Men's Lightweight Sports Running and Training Shoes",
+      "desc": "AVANT Sports is engaged in the design, development and marketing of sports and performance footwear. Our goal is to provide our customers with professional sports footwear and accessories.",
       "image": "http://html.smartcmsmarket.net/product-listing/images/5.png",
       "rating": 4,
       "price": 890,
@@ -47,8 +47,8 @@
     },
     {
       "id": 6,
-      "name": "Name Brand Shoes",
-      "desc": "Product fashion, hot trend and very cheap",
+      "name": "GR8 Men's Formal Synthetic Leather Shoes for Men",
+      "desc": "Gr8 Men's Formal synthetic leather shoes is best option for party, office and for daily Wear.",
       "image": "http://html.smartcmsmarket.net/product-listing/images/6.png",
       "rating": 5,
       "price": 670,
@@ -56,8 +56,8 @@
     },
     {
       "id": 7,
-      "name": "Name Brand Shoes",
-      "desc": "Product fashion, hot trend and very cheap",
+      "name": "Ruosh Men's Leather Formal Shoes",
+      "desc": "Designs inspired from Italy, RUOSH celebrates style, with a focus on design, comfort and craftsmanship, making shoes exclusively for the Indian men.",
       "image": "http://html.smartcmsmarket.net/product-listing/images/7.png",
       "rating": 3,
       "price": 600,
